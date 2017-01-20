@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Wheater</string>
+    <string name="daily">Daily Wheater Forecast</string>
+    <string name="minutely">Minutely Wheater Forecast</string>
+    <string name="hourly">Hourly Wheater Forecast</string>
+    <string name="daily_button_text">Daily</string>
+    <string name="hourly_button_text">Hourly</string>
+    <string name="minutely_button_text">Minutely</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Color Clima</string>
+    <string name="daily">Pronostico Clima Diario</string>
+    <string name="hourly">Pronostico Clima por Hora</string>
+    <string name="minutely">Pronostico Clima por Minuto</string>
+    <string name="daily_button_text">Diario</string>
+    <string name="hourly_button_text">Hora</string>
+    <string name="minutely_button_text">Minuto</string>
+
+</resources>
